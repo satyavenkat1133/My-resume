@@ -1,5 +1,4 @@
-# My-resume
-The resume show case my resume and my performence 
+# SAMSANI NAGA VENKATA SATYANARAYANA
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -25,11 +24,11 @@ The resume show case my resume and my performence
         }
         h1 {
             text-align: center;
-            color: #4CAF50;
+            color:rgb(142, 141, 50);
         }
         h2 {
             color: #333;
-            border-bottom: 2px solid #4CAF50;
+            border-bottom: 2px solidrgb(119, 113, 136);
             padding-bottom: 5px;
         }
         table {
